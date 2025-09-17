@@ -127,9 +127,12 @@
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Alexhnz31&show_icons=true&theme=tokyonight" height="150"/> <br><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexhnz31&layout=compact&theme=tokyonight" height="150"/> <br><br> <img src="https://streak-stats.demolab.com?user=Alexhnz31&theme=tokyonight&hide_border=true" height="150"/> 
-
+<div align="center">
+  <!-- GitHub stats in one row -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexhnz31&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexhnz31&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Alexhnz31&theme=tokyonight&hide_border=true" height="150"/>
+</div>
 
 <div id="badges" align="center"> 
   <a href="https://www.linkedin.com/in/ваш-профиль"> 
