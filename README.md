@@ -21,7 +21,28 @@
   <img src="https://img.shields.io/badge/Salesforce_CLI-00A1E0?style=for-the-badge&logo=terminal&logoColor=white"/>
 
 
+<hr>
 
+<div align="center">
+  <!-- GitHub stats in one row -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexhnz31&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexhnz31&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Alexhnz31&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+<div id="badges" align="center"> 
+  <a href="https://www.linkedin.com/in/ваш-профиль"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+  </a> 
+  <a href="https://t.me/ваш-telegram"> 
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/> 
+  </a> 
+</div>
+</div>
+
+<hr>
+
+<div align = "center">
 <markdown-accessiblity-table data-catalyst=""><table>
 <thead>
 <tr>
@@ -127,20 +148,4 @@
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
-<div align="center">
-  <!-- GitHub stats in one row -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexhnz31&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexhnz31&layout=compact&theme=tokyonight" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Alexhnz31&theme=tokyonight&hide_border=true" height="150"/>
 </div>
-
-<div id="badges" align="center"> 
-  <a href="https://www.linkedin.com/in/ваш-профиль"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> 
-  </a> 
-  <a href="https://t.me/ваш-telegram"> 
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/> 
-  </a> 
-</div>
-</div>
-
