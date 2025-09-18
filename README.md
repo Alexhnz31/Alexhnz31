@@ -21,26 +21,23 @@
   <img src="https://img.shields.io/badge/Salesforce_CLI-00A1E0?style=for-the-badge&logo=terminal&logoColor=white"/>
 
 
-<hr>
+![](https://github-readme-stats.vercel.app/api?username=Alexhnz31&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Alexhnz31&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexhnz31&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <!-- GitHub stats in one row -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexhnz31&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexhnz31&layout=compact&theme=tokyonight" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Alexhnz31&theme=tokyonight&hide_border=true" height="150"/>
-</div>
 
-<div id="badges" align="center"> 
-  <a href="https://www.linkedin.com/in/ваш-профиль"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> 
-  </a> 
-  <a href="https://t.me/ваш-telegram"> 
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/> 
-  </a> 
-</div>
-</div>
+![](https://github-profile-trophy.vercel.app/?username=Alexhnz31&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<hr>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+![](https://github-contributor-stats.vercel.app/api?username=Alexhnz31&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+[![](https://visitcount.itsvg.in/api?id=Alexhnz31&icon=7&color=6)](https://visitcount.itsvg.in)
+
+
 
 <div align = "center">
 <markdown-accessiblity-table data-catalyst=""><table>
